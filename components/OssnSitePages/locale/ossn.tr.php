@@ -12,7 +12,7 @@ $tr = array(
     'ossnsitepages' => 'Site Sayfaları',
     'site:privacy' => 'Gizlilik',
     'site:about' => 'Hakkında',
-    'site:terms' => 'Şartlar ve Hükümlülükler',
+    'site:terms' => 'Şartlar ve Koşullar',
 
     'page:saved' => 'Sayfa kaydedildi!',
     'page:save:error' => 'Sayfa kaydedilemedi! Lütfen daha sonra tekrar deneyin.',
