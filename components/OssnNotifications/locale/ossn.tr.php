@@ -24,7 +24,7 @@ $tr = array(
     'ossn:notifications:like:entity:file:profile:cover' => "%s profil cover beğendi.",
     'ossn:notifications:comments:entity:file:profile:cover' => "%s profil cover yorum yaptı.",
 
-    'ossn:notifications:like:post:group:wall' => '%s liked your post.',
+    'ossn:notifications:like:post:group:wall' => '%s yayınınızı beğendi.',
 	
     'ossn:notification:delete:friend' => 'İstek kaldırıldı',
     'notifications' => 'Bildirimler',
