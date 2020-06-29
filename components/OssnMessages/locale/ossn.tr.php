@@ -11,7 +11,7 @@
 $tr = array(
     'user:messages' => 'Mesajlar',
     'inbox' => 'Gelen Kutusu',
-    'send' => 'Gönderilenler',
+    'send' => 'Gönder',
     'ossn:message:between' => 'Mesaj %s',
     'messages' => 'Mesajlar',
     'message:placeholder' => 'Metninizi girin',
